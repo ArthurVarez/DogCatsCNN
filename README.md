@@ -6,6 +6,8 @@ You can find the related datset on Kaggle :
 
 https://www.kaggle.com/kunalgupta2616/dog-vs-cat-images-data
 
+If you want to run the code below, you just have to download the zip dataset and upload it on your Google Drive
+
 To do so, I've choosed to build CNNs in order to predict dog and cats. 
 
 Here is the link of the colab notebook : 
